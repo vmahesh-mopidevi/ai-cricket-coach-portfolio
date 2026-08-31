@@ -364,18 +364,6 @@ A technical walkthrough or private code review can be provided during appropriat
 
 ---
 
-## About
-
-I am an **MSc Data Science** graduate focused on computer vision, applied machine learning, and sports technology.
-
-AI Cricket Coach is my main computer-vision project, developed as an investigation into accessible AI-assisted cricket coaching.
-
-- **LinkedIn:** *[add your URL]*
-- **GitHub:** *[add your URL]*
-- **Email:** *[add your contact]*
-
----
-
 ## Documentation Index
 
 | Document | Contents |
