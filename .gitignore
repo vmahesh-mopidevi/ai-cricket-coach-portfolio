@@ -1,0 +1,62 @@
+# Environment and secrets
+.env
+.env.*
+secrets/
+credentials/
+*.pem
+*.key
+
+# Model weights and training artifacts
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+*.safetensors
+models/
+weights/
+runs/
+checkpoints/
+
+# Datasets and private data
+datasets/
+dataset/
+data/private/
+private/
+videos/
+raw/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Video files (add demo assets explicitly if needed)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Approved public portfolio demo (exception to video block above)
+!assets/ai-cricket-coach-demo.mp4
+
+# Large archives
+*.zip
+*.tar.gz
+
+# Accidental copies from private repo
+outputs/
+src/
+scripts/
